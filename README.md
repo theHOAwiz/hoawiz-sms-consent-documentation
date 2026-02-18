@@ -23,10 +23,9 @@ The optional SMS consent checkbox displays the following text:
 
 The screenshots below show the registration flow within the iOS app:
 
-- **hoawiz-signup-consent-overview.png** — Full registration form with phone number field and optional SMS consent checkbox
-- **hoawiz-signup-consent-detail.png** — Close-up of the SMS consent checkbox area showing "(Optional)" label
-- **hoawiz-signup-consent-checked.png** — SMS consent checkbox in checked state (user has opted in)
-- **hoawiz-signup-full-flow.png** — Complete registration flow from start to finish
+- **hoawiz-signup-consent-overview.png** — Registration form with phone number field and optional SMS consent checkbox (unchecked, default state)
+- **hoawiz-signup-consent-detail.png** — Close-up of the SMS consent checkbox area showing "(Optional)" label and full disclosure text
+- **hoawiz-signup-consent-checked.png** — SMS consent checkbox in checked state (user has voluntarily opted in)
 
 ## Legal Documents
 
